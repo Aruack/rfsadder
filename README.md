@@ -26,7 +26,7 @@ pip install -r requirements.txt
 python rfsmanager.py
 ```
 ```
-rfsadder.py
+python rfsadder.py
 ```
 
 <b> For full tutorial, refer to <a href='https://github.com/Aruack/rfsadder/blob/main/how_to_use.txt'>how_to_use.txt</a> </b>
