@@ -7,6 +7,28 @@
 * Then you need to store your accounts using `rfsmanager.py`
 * Then, scrape and add members using `rfsadder.py`
 
+```
+pkg install git
+```
+```
+pkg install python
+```
+```
+git clone https://github.com/Aruack/rfsadder
+```
+```
+cd rfsadder
+```
+```
+pip install -r requirements.txt
+```
+```
+python rfsmanager.py
+```
+```
+rfsadder.py
+```
+
 <b> For full tutorial, refer to <a href='https://github.com/Aruack/rfsadder/blob/main/how_to_use.txt'>how_to_use.txt</a> </b>
 
 # 🇫‌🇪‌🇦‌🇹‌🇺‌🇷‌🇪‌🇸‌ 🔥
